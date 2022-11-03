@@ -1,18 +1,20 @@
 [![@richardcarrigan's Holopin board](https://holopin.me/richardcarrigan)](https://holopin.io/@richardcarrigan)
 
-### Hi there 👋
+### 👋 Hi there, I'm Richard. Feel free to call me 'Richard' or 'Rich', I really don't care either way. 
 
-<!--
-**nihonjinboy85/nihonjinboy85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 📫 How to reach me:
+  - [twitter.com/Rich_Carrigan](https://twitter.com/Rich_Carrigan)
+  - [me@richardcarrigan.com](mailto:me@richardcarrigan.com)
+- ⚡ Fun fact: This --> (#) <-- is called an 'octothorpe'
+- 🔭 I’m currently working on:
+  - Building a personal finance app to replace my Excel spreadsheet 😅
+  - Making my portfolio site actually match my skill level
+  - Getting more involved in the tech community, instead of trying to do it all myself
+- 🌱 I’m currently learning:
+  - GraphQL
+  - React
+  - DevOps
+  - Power Platform
+  - HTML, CSS, and JS (Always!)
+- 💬 Ask me about...anything!
