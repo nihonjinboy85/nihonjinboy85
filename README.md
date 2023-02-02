@@ -4,7 +4,6 @@
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
-  - [twitter.com/Rich_Carrigan](https://twitter.com/Rich_Carrigan)
   - [me@richardcarrigan.com](mailto:me@richardcarrigan.com)
 - ⚡ Fun fact: This --> (#) <-- is called an 'octothorpe'
 - 🔭 I’m currently working on:
